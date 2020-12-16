@@ -4,7 +4,7 @@
 
 
 
-Quick Sort in Haskell (Although syntax isn't that important for a PL...)
+Quick Sort in Haskell:
 
 ```haskell
 -- Type annotation
